@@ -552,7 +552,7 @@
       "address": "0xfFBDB9BDCae97a962535479BB96cC2778D65F4dd",
       "symbol": "KRT",
       "decimals": 18,
-      "chainId": 56
+      "chainId": 56,
       "tags":["pegged","krt"]
     },
     {
