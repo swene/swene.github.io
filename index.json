@@ -75,7 +75,7 @@
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 56,
-      "tags":["stablecoin"],["fiat"],["usd"]}
+      "tags":["stablecoin","fiat","usd"]}
     },
     {
       "name": "Binance Peg Cardano",
@@ -83,7 +83,7 @@
       "symbol": "ADA",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["ada"]}
+      "tags":["pegged","ada"]}
     },
     {
       "name": "Binance Peg Chainlink",
@@ -91,7 +91,7 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["link"]}
+      "tags":["pegged","link"]}
     },
     {
       "name": "Binance Peg Dai",
@@ -99,7 +99,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["dai"]}
+      "tags":["pegged","dai"]}
     },
     {
       "name": "Binance Peg Doge",
@@ -107,7 +107,7 @@
       "symbol": "DOGE",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["doge"]}
+      "tags":["pegged","doge"]}
     },
     {
       "name": "Binance Peg Ethereum",
@@ -115,7 +115,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["ethereum"]}
+      "tags":["pegged","ethereum"]}
     },
     {
       "name": "Binance Peg Litecoin",
@@ -123,7 +123,7 @@
       "symbol": "LTC",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["litecoin"]}
+      "tags":["pegged","litecoin"]}
     },
     {
       "name": "Binance Peg Polkadot",
@@ -131,7 +131,7 @@
       "symbol": "DOT",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["polkadot"]}
+      "tags":["pegged","polkadot"]}
     },
     {
       "name": "Binance Peg Uniswap",
@@ -139,7 +139,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["uniswap"]}
+      "tags":["pegged","uniswap"]}
     },
     {
       "name": "Binance peg XRP",
@@ -147,7 +147,7 @@
       "symbol": "XRP",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["ripple"]}
+      "tags":["pegged","ripple"]}
     },
     {
       "name": "Bitcoin BEP2",
@@ -155,7 +155,7 @@
       "symbol": "BTCB",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["bitcoin"]}
+      "tags":["pegged","bitcoin"]}
     },
     {
       "name": "bitcoin standard hashrate",
@@ -163,7 +163,7 @@
       "symbol": "BTCST",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["bitcoin"]}
+      "tags":["pegged","bitcoin"]}
     },
     {
       "name": "Bounce",
@@ -206,7 +206,7 @@
       "symbol": "CBRL",
       "decimals": 6,
       "chainId": 56,
-      "tags":["stablecoin"],["fiat"],["brl"]}
+      "tags":["stablecoin","fiat","brl"]}
     },
     {
       "name": "Dego Finance",
@@ -382,7 +382,7 @@
       "symbol": "USDN",
       "decimals": 18,
       "chainId": 56,
-      "tags":["stablecoin"],["fiat"],["usd"]}
+      "tags":["stablecoin","fiat","usd"]}
     },
     {
       "name": "PancakeSwap",
@@ -397,7 +397,7 @@
       "symbol": "PAXG",
       "decimals": 18,
       "chainId": 56,
-      "tags":["commodity"],["gold"]}
+      "tags":["commodity","gold"]}
     },
     {
       "name": "Paxos standart",
@@ -405,7 +405,7 @@
       "symbol": "PAX",
       "decimals": 18,
       "chainId": 56,
-      "tags":["stablecoin"],["fiat"],["usd"]}
+      "tags":["stablecoin","fiat","usd"]}
     },
     {
       "name": "Prometeus",
@@ -483,7 +483,7 @@
       "symbol": "VAI",
       "decimals": 18,
       "chainId": 56,
-      "tags":["stablecoin"],["fiat"],["usd"]}
+      "tags":["stablecoin","fiat","usd"]}
     },
     {
       "name": "Venus",
@@ -498,7 +498,7 @@
       "symbol": "vBNB",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["binance coin"]}
+      "tags":["pegged","binance coin"]}
     },
     {
       "name": "Venus BTC",
@@ -506,7 +506,7 @@
       "symbol": "vBTC",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["bitcoin"]}
+      "tags":["pegged","bitcoin"]}
     },
     {
       "name": "Venus ETH",
@@ -514,7 +514,7 @@
       "symbol": "vETH",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["ethereum"]}
+      "tags":["pegged","ethereum"]}
     },
     {
       "name": "Venus USDC",
@@ -522,7 +522,7 @@
       "symbol": "vUSDC",
       "decimals": 18,
       "chainId": 56,
-      "tags":["stablecoin"],["fiat"],["usd"]}
+      "tags":["stablecoin","fiat","usd"]}
     },
     {
       "name": "Venus XVS",
@@ -530,7 +530,7 @@
       "symbol": "vXVS",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["xvs"]}
+      "tags":["pegged","xvs"]}
     },
     {
       "name": "VIDT Datalink",
@@ -545,7 +545,7 @@
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 56,
-       "tags":["pegged"],["binance coin"]}
+       "tags":["pegged","binance coin"]}
     },
     {
       "name": "Wrapped KRT",
@@ -553,7 +553,7 @@
       "symbol": "KRT",
       "decimals": 18,
       "chainId": 56
-      "tags":["pegged"],["krt"]}
+      "tags":["pegged","krt"]}
     },
     {
       "name": "Wrapped Luna",
@@ -561,7 +561,7 @@
       "symbol": "LUNA",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["luna"]}
+      "tags":["pegged","luna"]}
     },
     {
       "name": "Wrapped Mirror",
@@ -569,7 +569,7 @@
       "symbol": "MIR",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["mir"]}
+      "tags":["pegged","mir"]}
     },
     {
       "name": "Wrapped Money",
@@ -577,7 +577,7 @@
       "symbol": "MNT",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["mnt"]}
+      "tags":["pegged","mnt"]}
     },
     {
       "name": "Wrapped Stake DAO",
@@ -585,7 +585,7 @@
       "symbol": "SDT",
       "decimals": 18,
       "chainId": 56,
-      "tags":["pegged"],["dao"]}
+      "tags":["pegged","dao"]}
     },
     {
       "name": "Wrapped UST",
@@ -593,7 +593,7 @@
       "symbol": "UST",
       "decimals": 18,
       "chainId": 56,
-      "tags":["stablecoin"],["fiat"],["usd"]}
+      "tags":["stablecoin","fiat","usd"]}
     },
     {
       "name": "Yearn Finance",
