@@ -1,7 +1,7 @@
 {
   "name": "Swene Crosschain list",
   "logoURI": "https://swene.io/img/logo.png",
-  "timestamp": "2021-04-23T08:53:20.310Z",
+  "timestamp": "2021-04-23T09:04:16.290Z",
   "version": {
     "major": 1,
     "minor": 5,
@@ -4978,7 +4978,7 @@
       "chainId": "100",
       "logo": "https://etherscan.io/token/images/davincicode_32.png",
       "tags": [
-        "donut"
+        "davincij15"
       ]
     },
     {
@@ -5000,7 +5000,7 @@
       "chainId": "100",
       "logo": "https://etherscan.io/token/images/etherisc_28.png",
       "tags": [
-        "davincij15"
+        "decentralized-insurance"
       ]
     },
     {
@@ -5022,7 +5022,7 @@
       "chainId": "100",
       "logo": "https://etherscan.io/token/images/defirex_32.png",
       "tags": [
-        "decentralized-insurance"
+        "defirex"
       ]
     },
     {
@@ -5033,7 +5033,7 @@
       "chainId": "100",
       "logo": "https://assets.coingecko.com/coins/images/7538/small/Donut.png",
       "tags": [
-        "enigma"
+        "donut"
       ]
     },
     {
@@ -5067,7 +5067,7 @@
       "chainId": "100",
       "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png",
       "tags": [
-        "enjin"
+        "enigma"
       ]
     },
     {
@@ -5078,7 +5078,7 @@
       "chainId": "100",
       "logo": "https://etherscan.io/token/images/enjin_28_2.png",
       "tags": [
-        "ethereum"
+        "enjin"
       ]
     },
     {
