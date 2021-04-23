@@ -1,10 +1,10 @@
 {
   "name": "Swene Polygon list",
   "logoURI": "https://swene.io/img/logo.png",
-  "timestamp": "2021-03-29T16:55:17.792Z",
+  "timestamp": "2021-04-23T08:08:21.126Z",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "keywords": [
@@ -20,7 +20,9 @@
       "address": "0x71b821aa52a49f32eed535fca6eb5aa130085978",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png",
-      "tags": []
+      "tags": [
+        "0xbitcoin"
+      ]
     },
     {
       "name": "Aavegotchi GHST Token",
@@ -29,7 +31,9 @@
       "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
       "chainId": "137",
       "logoURI": "https://aavegotchi.com/images/ghsttoken.svg",
-      "tags": []
+      "tags": [
+        "aavegotchi-ghst"
+      ]
     },
     {
       "name": "ARIANEE",
@@ -38,7 +42,9 @@
       "address": "0x46f48fbdedaa6f5500993bede9539ef85f4bee8e",
       "chainId": "137",
       "logoURI": "https://aria.fyi/images/Aria_Logo_256.png",
-      "tags": []
+      "tags": [
+        "arianee"
+      ]
     },
     {
       "name": "Celsius",
@@ -47,7 +53,9 @@
       "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
       "chainId": "137",
       "logoURI": "https://assets.coingecko.com/coins/images/3263/small/CEL_logo.png?1609598753",
-      "tags": []
+      "tags": [
+        "celsius"
+      ]
     },
     {
       "name": "ChainLink Token",
@@ -68,7 +76,9 @@
       "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
-      "tags": []
+      "tags": [
+        "compound"
+      ]
     },
     {
       "name": "CyberFi Token",
@@ -77,7 +87,9 @@
       "address": "0xecf8f2fa183b1c4d2a269bf98a54fce86c812d3e",
       "chainId": "137",
       "logoURI": "https://i.imgur.com/Z8V1O7H.png",
-      "tags": []
+      "tags": [
+        "cyberfi"
+      ]
     },
     {
       "name": "Dai Stablecoin",
@@ -99,7 +111,9 @@
       "address": "0xd28449bb9bb659725accad52947677cce3719fd7",
       "chainId": "137",
       "logoURI": "https://darkmatter.finance/i/favicon/512x512.png",
-      "tags": []
+      "tags": [
+        "dark-matter"
+      ]
     },
     {
       "name": "Dark.Build",
@@ -108,7 +122,9 @@
       "address": "0x0e59d50add2d90f5111aca875bae0a72d95b4762",
       "chainId": "137",
       "logoURI": "https://dark-build.app/logo192.png",
-      "tags": []
+      "tags": [
+        "dark.build"
+      ]
     },
     {
       "name": "decentral.games",
@@ -117,7 +133,9 @@
       "address": "0x2a93172c8dccbfbc60a39d56183b7279a2f647b4",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg",
-      "tags": []
+      "tags": [
+        "decentral"
+      ]
     },
     {
       "name": "Decentraland MANA",
@@ -126,7 +144,9 @@
       "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png",
-      "tags": []
+      "tags": [
+        "decentraland"
+      ]
     },
     {
       "name": "DEFI Top 5 Tokens Index",
@@ -135,7 +155,9 @@
       "address": "0x42435f467d33e5c4146a4e8893976ef12bbce762",
       "chainId": "137",
       "logoURI": "https://i.imgur.com/uVGtugL.png",
-      "tags": []
+      "tags": [
+        "defi-top5"
+      ]
     },
     {
       "name": "Digital Reserve Currency",
@@ -144,7 +166,9 @@
       "address": "0xfed16c746cb5bfed009730f9e3e6a673006105c7",
       "chainId": "137",
       "logoURI": "https://pbs.twimg.com/profile_images/1318783238291292160/R4DxXdRA_400x400.jpg",
-      "tags": []
+      "tags": [
+        "digital-reserve"
+      ]
     },
     {
       "name": "DokiDokiAzuki",
@@ -153,7 +177,9 @@
       "address": "0x7cdc0421469398e0f3aa8890693d86c840ac8931",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/azuki.png",
-      "tags": []
+      "tags": [
+        "dokidokiazuki"
+      ]
     },
     {
       "name": "DSLA",
@@ -162,7 +188,9 @@
       "address": "0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639",
       "chainId": "137",
       "logoURI": "https://storage.googleapis.com/stacktical-public/dsla.png",
-      "tags": []
+      "tags": [
+        "dsla"
+      ]
     },
     {
       "name": "EASY",
@@ -171,7 +199,9 @@
       "address": "0xdb3b3b147a030f032633f6c4bebf9a2fb5a882b5",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png",
-      "tags": []
+      "tags": [
+        "easy"
+      ]
     },
     {
       "name": "Easy DAI",
@@ -219,7 +249,9 @@
       "address": "0x07738eb4ce8932ca961c815cb12c9d4ab5bd0da4",
       "chainId": "137",
       "logoURI": "https://etherlegends.com/ELET.png",
-      "tags": []
+      "tags": [
+        "elementeum"
+      ]
     },
     {
       "name": "Ether",
@@ -240,7 +272,9 @@
       "address": "0x313d009888329c9d1cf4f75ca3f32566335bd604",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png",
-      "tags": []
+      "tags": [
+        "ethlend"
+      ]
     },
     {
       "name": "Frax",
@@ -249,7 +283,9 @@
       "address": "0x104592a158490a9228070e0a8e5343b499e125d0",
       "chainId": "137",
       "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4",
-      "tags": []
+      "tags": [
+        "frax"
+      ]
     },
     {
       "name": "Frax Share",
@@ -258,7 +294,9 @@
       "address": "0x3e121107f6f22da4911079845a470757af4e1a1b",
       "chainId": "137",
       "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4",
-      "tags": []
+      "tags": [
+        "frax-share"
+      ]
     },
     {
       "name": "GAME Credits",
@@ -267,7 +305,9 @@
       "address": "0x8d1566569d5b695d44a9a234540f68d393cdc40d",
       "chainId": "137",
       "logoURI": "https://i.imgur.com/IIUglm9.png?1",
-      "tags": []
+      "tags": [
+        "game-credits"
+      ]
     },
     {
       "name": "HEXX",
@@ -276,7 +316,9 @@
       "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
       "chainId": "137",
       "logoURI": "https://hex.com/favicon.png",
-      "tags": []
+      "tags": [
+        "hexx"
+      ]
     },
     {
       "name": "Holyheld",
@@ -285,7 +327,9 @@
       "address": "0x521cddc0cba84f14c69c1e99249f781aa73ee0bc",
       "chainId": "137",
       "logoURI": "https://assets.coingecko.com/coins/images/13719/small/hh.png?1611137626",
-      "tags": []
+      "tags": [
+        "holyheld"
+      ]
     },
     {
       "name": "iFARM",
@@ -294,7 +338,9 @@
       "address": "0xab0b2ddb9c7e440fac8e140a89c0dbcbf2d7bbff",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/harvestfi/assets/main/farm-logo.png",
-      "tags": []
+      "tags": [
+        "ifarm"
+      ]
     },
     {
       "name": "IG Gold",
@@ -303,7 +349,9 @@
       "address": "0xe6fc6c7cb6d2c31b359a49a33ef08ab87f4de7ce",
       "chainId": "137",
       "logoURI": "https://assets.coingecko.com/coins/images/7697/small/N7aEdYrY_400x400.png?1561587437",
-      "tags": []
+      "tags": [
+        "ig.gold"
+      ]
     },
     {
       "name": "Matic Aave interest bearing AAVE",
@@ -424,7 +472,9 @@
       "address": "0x82b6205002ecd05e97642d38d61e2cfeac0e18ce",
       "chainId": "137",
       "logoURI": "https://etherscan.io/token/images/deflect_32.png?=v1",
-      "tags": []
+      "tags": [
+        "matic-deflect"
+      ]
     },
     {
       "name": "Matic Rebalance Token",
@@ -433,7 +483,9 @@
       "address": "0x66768ad00746ac4d68ded9f64886d55d5243f5ec",
       "chainId": "137",
       "logoURI": "https://rebalancetoken.io/images/logo/logo.png",
-      "tags": []
+      "tags": [
+        "matic-rebalance"
+      ]
     },
     {
       "name": "Must",
@@ -442,7 +494,9 @@
       "address": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
       "chainId": "137",
       "logoURI": "https://etherscan.io/token/images/cometh_32.png",
-      "tags": []
+      "tags": [
+        "must"
+      ]
     },
     {
       "name": "OM",
@@ -451,7 +505,9 @@
       "address": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea",
       "chainId": "137",
       "logoURI": "https://etherscan.io/token/images/mantradao_32.png",
-      "tags": []
+      "tags": [
+        "om"
+      ]
     },
     {
       "name": "Pepedex",
@@ -460,7 +516,9 @@
       "address": "0x127984b5e6d5c59f81dacc9f1c8b3bdc8494572e",
       "chainId": "137",
       "logoURI": "https://etherscan.io/token/images/pepedex_32.png?v=2",
-      "tags": []
+      "tags": [
+        "pepedex"
+      ]
     },
     {
       "name": "Quickswap",
@@ -469,7 +527,9 @@
       "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg",
-      "tags": []
+      "tags": [
+        "quickswap"
+      ]
     },
     {
       "name": "Rebalance Token",
@@ -478,7 +538,9 @@
       "address": "0x03247a4368a280bec8133300cd930a3a61d604f6",
       "chainId": "137",
       "logoURI": "http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png",
-      "tags": []
+      "tags": [
+        "rebalance"
+      ]
     },
     {
       "name": "Sentinel",
@@ -487,7 +549,9 @@
       "address": "0x48e3883233461c2ef4cb3fcf419d6db07fb86cea",
       "chainId": "137",
       "logoURI": "https://cdn-images-1.medium.com/max/1200/1*mK1oPGsQWh4Nfupg-e0S-g.png",
-      "tags": []
+      "tags": [
+        "sentinel"
+      ]
     },
     {
       "name": "SportX",
@@ -496,7 +560,9 @@
       "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg",
-      "tags": []
+      "tags": [
+        "sportx"
+      ]
     },
     {
       "name": "Standard",
@@ -505,7 +571,9 @@
       "address": "0xf153eff70dc0bf3b085134928daeea248d9b30d0",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/8cb78aca77b340510958ed98a3cd260d2d7f0420/blockchains/ethereum/assets/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png",
-      "tags": []
+      "tags": [
+        "standard"
+      ]
     },
     {
       "name": "SuperFarm",
@@ -514,7 +582,9 @@
       "address": "0xa1428174f516f527fafdd146b883bb4428682737",
       "chainId": "137",
       "logoURI": "https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899",
-      "tags": []
+      "tags": [
+        "superfarm"
+      ]
     },
     {
       "name": "Swirge",
@@ -523,7 +593,9 @@
       "address": "0x043a3aa319b563ac25d4e342d32bffb51298db7b",
       "chainId": "137",
       "logoURI": "https://etherscan.io/token/images/swirge_32.png",
-      "tags": []
+      "tags": [
+        "swirge"
+      ]
     },
     {
       "name": "Tether USD",
@@ -545,7 +617,9 @@
       "address": "0x3809dcdd5dde24b37abe64a5a339784c3323c44f",
       "chainId": "137",
       "logoURI": "https://i.imgur.com/vZnU36G.png",
-      "tags": []
+      "tags": [
+        "trustswap"
+      ]
     },
     {
       "name": "Unibright",
@@ -554,7 +628,9 @@
       "address": "0x7fbc10850cae055b27039af31bd258430e714c62",
       "chainId": "137",
       "logoURI": "https://assets.coingecko.com/coins/images/2707/small/UnibrightLogo_colorful_500x500_preview.png?1547036916",
-      "tags": []
+      "tags": [
+        "unibright"
+      ]
     },
     {
       "name": "Uniswap",
@@ -563,7 +639,9 @@
       "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png",
-      "tags": []
+      "tags": [
+        "uniswap"
+      ]
     },
     {
       "name": "USD Coin",
@@ -585,7 +663,9 @@
       "address": "0x034b2090b579228482520c589dbd397c53fc51cc",
       "chainId": "137",
       "logoURI": "https://s3-us-west-2.amazonaws.com/acf-uploads/apyvisionlogo200circle.png",
-      "tags": []
+      "tags": [
+        "vision"
+      ]
     },
     {
       "name": "WazirX",
@@ -594,7 +674,9 @@
       "address": "0x72d6066f486bd0052eefb9114b66ae40e0a6031a",
       "chainId": "137",
       "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png",
-      "tags": []
+      "tags": [
+        "wazirx"
+      ]
     },
     {
       "name": "Wrapped BTC",
@@ -627,7 +709,9 @@
       "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
       "chainId": "137",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
-      "tags": []
+      "tags": [
+        "yearn.finance"
+      ]
     },
     {
       "name": "ZeroUtility",
@@ -636,7 +720,9 @@
       "address": "0xe86e8beb7340659dddce61727e500e3a5ad75a90",
       "chainId": "137",
       "logoURI": "https://s2.gifyu.com/images/zutlogo.jpg",
-      "tags": []
+      "tags": [
+        "zeroutility"
+      ]
     }
   ]
 }

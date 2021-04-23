@@ -1,10 +1,10 @@
 {
   "name": "Swene BSC list",
   "logoURI": "https://swene.io/img/logo.png",
-  "timestamp": "2021-03-29T16:55:17.792Z",
+  "timestamp": "2021-04-23T08:08:21.126Z",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "keywords": [
@@ -21,7 +21,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "1inch"
+      ]
     },
     {
       "name": "Aelf",
@@ -30,7 +32,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "aelf"
+      ]
     },
     {
       "name": "Alpha Finance Lab",
@@ -39,7 +43,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xa1faa113cbe53436df28ff0aee54275c13b40975.png",
-      "tags": []
+      "tags": [
+        "alpha"
+      ]
     },
     {
       "name": "AUTO",
@@ -48,7 +54,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xa184088a740c695e156f91f5cc086a06bb78b827.png",
-      "tags": []
+      "tags": [
+        "auto"
+      ]
     },
     {
       "name": "Bakery",
@@ -57,7 +65,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png",
-      "tags": []
+      "tags": [
+        "bakery"
+      ]
     },
     {
       "name": "Band Protocol",
@@ -66,7 +76,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18.png",
-      "tags": []
+      "tags": [
+        "band"
+      ]
     },
     {
       "name": "Basic Attention ",
@@ -75,7 +87,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x101d82428437127bf1608f699cd651e6abf9766e.png",
-      "tags": []
+      "tags": [
+        "basic-attention"
+      ]
     },
     {
       "name": "Beefy Finance",
@@ -84,7 +98,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png",
-      "tags": []
+      "tags": [
+        "beefy"
+      ]
     },
     {
       "name": "Binance Peg BUSD",
@@ -238,7 +254,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "bounce"
+      ]
     },
     {
       "name": "BSCPAD",
@@ -247,7 +265,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "bscpad"
+      ]
     },
     {
       "name": "Burger Swap",
@@ -256,7 +276,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xae9269f27437f0fcbc232d39ec814844a51d6b8f.png",
-      "tags": []
+      "tags": [
+        "burgerswap"
+      ]
     },
     {
       "name": "BUX",
@@ -265,7 +287,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x211ffbe424b90e25a15531ca322adf1559779e45.png",
-      "tags": []
+      "tags": [
+        "bux"
+      ]
     },
     {
       "name": "Cream Finance",
@@ -274,7 +298,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888.png",
-      "tags": []
+      "tags": [
+        "cream"
+      ]
     },
     {
       "name": "Crypto BRL ",
@@ -284,7 +310,6 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stablecoin",
         "fiat",
         "brl"
       ]
@@ -296,7 +321,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x3fda9383a84c05ec8f7630fe10adf1fac13241cc.png",
-      "tags": []
+      "tags": [
+        "dego"
+      ]
     },
     {
       "name": "DFI.Money",
@@ -305,7 +332,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png",
-      "tags": []
+      "tags": [
+        "dfi"
+      ]
     },
     {
       "name": "Frontier",
@@ -314,7 +343,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b.png",
-      "tags": []
+      "tags": [
+        "frontier"
+      ]
     },
     {
       "name": "GNY",
@@ -323,7 +354,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "gny"
+      ]
     },
     {
       "name": "JustLiquidity",
@@ -332,7 +365,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "justliquidity"
+      ]
     },
     {
       "name": "Linear",
@@ -341,7 +376,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x762539b45a1dcce3d36d080f74d1aed37844b878.png",
-      "tags": []
+      "tags": [
+        "linear"
+      ]
     },
     {
       "name": "Maker ",
@@ -350,7 +387,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "maker"
+      ]
     },
     {
       "name": "MATH",
@@ -359,7 +398,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xf218184af829cf2b0019f8e6f0b2423498a36983.png",
-      "tags": []
+      "tags": [
+        "math"
+      ]
     },
     {
       "name": "Mirrored Alibaba",
@@ -369,7 +410,8 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "alibaba"
       ]
     },
     {
@@ -380,7 +422,8 @@
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x3947B992DC0147D2D89dF0392213781b04B25075.png",
       "tags": [
-        "stock"
+        "stock",
+        "amazon"
       ]
     },
     {
@@ -391,7 +434,8 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "apple"
       ]
     },
     {
@@ -402,7 +446,8 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "facebook"
       ]
     },
     {
@@ -413,7 +458,8 @@
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f.png",
       "tags": [
-        "stock"
+        "stock",
+        "google"
       ]
     },
     {
@@ -424,7 +470,8 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "invesco"
       ]
     },
     {
@@ -435,7 +482,8 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "ishares-gold"
       ]
     },
     {
@@ -446,7 +494,8 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "ishares-silver"
       ]
     },
     {
@@ -457,7 +506,8 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "microsoft"
       ]
     },
     {
@@ -468,7 +518,8 @@
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc.png",
       "tags": [
-        "stock"
+        "stock",
+        "netflix"
       ]
     },
     {
@@ -479,7 +530,8 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "proshares"
       ]
     },
     {
@@ -490,18 +542,20 @@
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3.png",
       "tags": [
-        "stock"
+        "stock",
+        "tesla"
       ]
     },
     {
-      "name": "Mirrored Twiter",
+      "name": "Mirrored Twitter",
       "address": "0x7426ab52a0e057691e2544fae9c8222e958b2cfb",
       "symbol": "MTWTR",
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "twitter"
       ]
     },
     {
@@ -512,7 +566,8 @@
       "chainId": "56",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "united-states-oil"
       ]
     },
     {
@@ -535,7 +590,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png",
-      "tags": []
+      "tags": [
+        "pancakeswap"
+      ]
     },
     {
       "name": "PAXOS GOld",
@@ -569,7 +626,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5.png",
-      "tags": []
+      "tags": [
+        "prometeus"
+      ]
     },
     {
       "name": "RAMP",
@@ -578,7 +637,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x8519ea49c997f50ceffa444d240fb655e89248aa.png",
-      "tags": []
+      "tags": [
+        "ramp"
+      ]
     },
     {
       "name": "Reef",
@@ -587,7 +648,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e.png",
-      "tags": []
+      "tags": [
+        "reef"
+      ]
     },
     {
       "name": "Spark Point",
@@ -596,7 +659,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "spark-point"
+      ]
     },
     {
       "name": "Spartan Protocol",
@@ -605,7 +670,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe4ae305ebe1abe663f261bc00534067c80ad677c.png",
-      "tags": []
+      "tags": [
+        "spartan"
+      ]
     },
     {
       "name": "Squirrel Finance",
@@ -614,7 +681,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "squirrel"
+      ]
     },
     {
       "name": "Swapcoinz",
@@ -623,7 +692,9 @@
       "decimals": 8,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "swapcoinz"
+      ]
     },
     {
       "name": "Swipe",
@@ -632,7 +703,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x47bead2563dcbf3bf2c9407fea4dc236faba485a.png",
-      "tags": []
+      "tags": [
+        "swipe"
+      ]
     },
     {
       "name": "Synthetix ",
@@ -641,7 +714,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "synthetix"
+      ]
     },
     {
       "name": "Unifi Protocol DAO",
@@ -650,7 +725,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B.png",
-      "tags": []
+      "tags": [
+        "unifi"
+      ]
     },
     {
       "name": "Vai",
@@ -672,7 +749,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63.png",
-      "tags": []
+      "tags": [
+        "venus"
+      ]
     },
     {
       "name": "Venus BNB",
@@ -742,7 +821,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "vidt"
+      ]
     },
     {
       "name": "Wrapped Binance Coin",
@@ -836,7 +917,9 @@
       "decimals": 18,
       "chainId": "56",
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e.png",
-      "tags": []
+      "tags": [
+        "yearn"
+      ]
     }
   ]
 }

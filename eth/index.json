@@ -1,10 +1,10 @@
 {
   "name": "Swene Ethereum list",
   "logoURI": "https://swene.io/img/logo.png",
-  "timestamp": "2021-03-29T16:55:17.792Z",
+  "timestamp": "2021-04-23T08:08:21.126Z",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "keywords": [
@@ -19,7 +19,9 @@
       "address": "0x525794473f7ab5715c81d06d10f52d11cc052804",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "12ships"
+      ]
     },
     {
       "name": "1irst Gold",
@@ -40,7 +42,9 @@
       "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png",
-      "tags": []
+      "tags": [
+        "aave"
+      ]
     },
     {
       "name": "Aavegotchi",
@@ -49,7 +53,9 @@
       "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x3f382dbd960e3a9bbceae22651e88158d2791550.png",
-      "tags": []
+      "tags": [
+        "aavegotchi"
+      ]
     },
     {
       "name": "AdEx Network",
@@ -58,7 +64,9 @@
       "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xade00c28244d5ce17d72e40330b1c318cd12b7c3.png",
-      "tags": []
+      "tags": [
+        "adex"
+      ]
     },
     {
       "name": "Aelf",
@@ -67,7 +75,9 @@
       "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xbf2179859fc6d5bee9bf9158632dc51678a4100e.png",
-      "tags": []
+      "tags": [
+        "aelf"
+      ]
     },
     {
       "name": "AGS Silver Standard",
@@ -88,7 +98,9 @@
       "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7.png",
-      "tags": []
+      "tags": [
+        "akropolis"
+      ]
     },
     {
       "name": "AllianceBlock",
@@ -97,7 +109,9 @@
       "address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x00a8b738e453ffd858a7edf03bccfe20412f0eb0.png",
-      "tags": []
+      "tags": [
+        "allianceblock"
+      ]
     },
     {
       "name": "Alpha Finance Lab",
@@ -106,7 +120,9 @@
       "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xa1faa113cbe53436df28ff0aee54275c13b40975.png",
-      "tags": []
+      "tags": [
+        "alpha"
+      ]
     },
     {
       "name": "AMP ",
@@ -115,7 +131,9 @@
       "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xff20817765cb7f73d4bde2e66e067e58d11095c2.png",
-      "tags": []
+      "tags": [
+        "amp"
+      ]
     },
     {
       "name": "Ampleforth",
@@ -124,7 +142,9 @@
       "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xd46ba6d942050d489dbd938a2c909a5d5039a161.png",
-      "tags": []
+      "tags": [
+        "ampleforth"
+      ]
     },
     {
       "name": "Anchor",
@@ -133,7 +153,9 @@
       "address": "0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "anchor"
+      ]
     },
     {
       "name": "API3",
@@ -142,7 +164,9 @@
       "address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0b38210ea11411557c13457d4da7dc6ea731b88a.png",
-      "tags": []
+      "tags": [
+        "api3"
+      ]
     },
     {
       "name": "Aragon ",
@@ -151,7 +175,9 @@
       "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xa117000000f279d81a1d3cc75430faa017fa5a2e.png",
-      "tags": []
+      "tags": [
+        "aragon"
+      ]
     },
     {
       "name": "ARPA Chain",
@@ -160,7 +186,9 @@
       "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "arpachain"
+      ]
     },
     {
       "name": "ATARI",
@@ -169,7 +197,9 @@
       "address": "0xdacd69347de42babfaecd09dc88958378780fb62",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xdacd69347de42babfaecd09dc88958378780fb62.png",
-      "tags": []
+      "tags": [
+        "atari"
+      ]
     },
     {
       "name": "augur",
@@ -178,7 +208,9 @@
       "address": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x1985365e9f78359a9b6ad760e32412f4a445e862.png",
-      "tags": []
+      "tags": [
+        "augur"
+      ]
     },
     {
       "name": "AUS Gold Standard",
@@ -212,7 +244,9 @@
       "address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xf5d669627376ebd411e34b98f19c868c8aba5ada.png",
-      "tags": []
+      "tags": [
+        "axie"
+      ]
     },
     {
       "name": "Badger DAO",
@@ -221,7 +255,9 @@
       "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x3472a5a71965499acd81997a54bba8d852c6e53d.png",
-      "tags": []
+      "tags": [
+        "badger"
+      ]
     },
     {
       "name": "balancer",
@@ -230,7 +266,9 @@
       "address": "0xba100000625a3754423978a60c9317c58a424e3d",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xba100000625a3754423978a60c9317c58a424e3d.png",
-      "tags": []
+      "tags": [
+        "balancer"
+      ]
     },
     {
       "name": "Bancor",
@@ -239,7 +277,9 @@
       "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c.png",
-      "tags": []
+      "tags": [
+        "bancor"
+      ]
     },
     {
       "name": "band-protocol",
@@ -248,7 +288,9 @@
       "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55.png",
-      "tags": []
+      "tags": [
+        "band-protocol"
+      ]
     },
     {
       "name": "BarnBRidge",
@@ -257,7 +299,9 @@
       "address": "0x0391d2021f89dc339f60fff84546ea23e337750f",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0391d2021f89dc339f60fff84546ea23e337750f.png",
-      "tags": []
+      "tags": [
+        "barnbridge"
+      ]
     },
     {
       "name": "Basic Attention Token ",
@@ -266,7 +310,9 @@
       "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0d8775f648430679a709e98d2b0cb6250d2887ef.png",
-      "tags": []
+      "tags": [
+        "basic-attention"
+      ]
     },
     {
       "name": "Bella Protocol",
@@ -275,7 +321,9 @@
       "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "bella"
+      ]
     },
     {
       "name": "Big Data Protocol",
@@ -284,7 +332,9 @@
       "address": "0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e.png",
-      "tags": []
+      "tags": [
+        "big-data"
+      ]
     },
     {
       "name": "Binance Coin",
@@ -293,7 +343,9 @@
       "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "binance"
+      ]
     },
     {
       "name": "Binance USD",
@@ -363,7 +415,9 @@
       "address": "0xc07a150ecadf2cc352f5586396e344a6b17625eb",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "biopassport"
+      ]
     },
     {
       "name": "Bitmax token",
@@ -372,7 +426,9 @@
       "address": "0xcca0c9c383076649604ee31b20248bc04fdf61ca",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xcca0c9c383076649604ee31b20248bc04fdf61ca.png",
-      "tags": []
+      "tags": [
+        "bitmax"
+      ]
     },
     {
       "name": "Bitpanda Ecosystem Token",
@@ -381,7 +437,9 @@
       "address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "bitpanda"
+      ]
     },
     {
       "name": "Bitrue Coin",
@@ -390,7 +448,9 @@
       "address": "0xd433138d12beb9929ff6fd583dc83663eea6aaa5",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "bitrue"
+      ]
     },
     {
       "name": "Bloomzed Loyalty club ticket",
@@ -399,7 +459,9 @@
       "address": "0x6d2c508fc4a588a41713ff59212f85489291d244",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "bloomzed-loyalty"
+      ]
     },
     {
       "name": "Bluzelle",
@@ -408,7 +470,9 @@
       "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x5732046a883704404f284ce41ffadd5b007fd668.png",
-      "tags": []
+      "tags": [
+        "bluzelle"
+      ]
     },
     {
       "name": "BONDLY",
@@ -417,7 +481,9 @@
       "address": "0xd2dda223b2617cb616c1580db421e4cfae6a8a85",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xd2dda223b2617cb616c1580db421e4cfae6a8a85.png",
-      "tags": []
+      "tags": [
+        "bondly"
+      ]
     },
     {
       "name": "BOSAGORA",
@@ -426,7 +492,9 @@
       "address": "0x746dda2ea243400d5a63e0700f190ab79f06489e",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "bosagora"
+      ]
     },
     {
       "name": "botXcoin",
@@ -435,7 +503,9 @@
       "address": "0xef19f4e48830093ce5bc8b3ff7f903a0ae3e9fa1",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "botxcoin"
+      ]
     },
     {
       "name": "Bounce Token ",
@@ -444,7 +514,9 @@
       "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "bounce"
+      ]
     },
     {
       "name": "Brazilian Digital Token",
@@ -466,7 +538,9 @@
       "address": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x725c263e32c72ddc3a19bea12c5a0479a81ee688.png",
-      "tags": []
+      "tags": [
+        "bridge"
+      ]
     },
     {
       "name": "bZx Protocol",
@@ -475,7 +549,9 @@
       "address": "0x56d811088235f11c8920698a204a5010a788f4b3",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x56d811088235f11c8920698a204a5010a788f4b3.png",
-      "tags": []
+      "tags": [
+        "bzx"
+      ]
     },
     {
       "name": "CannDollar",
@@ -496,7 +572,9 @@
       "address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "carry"
+      ]
     },
     {
       "name": "Cartesi",
@@ -505,7 +583,9 @@
       "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d.png",
-      "tags": []
+      "tags": [
+        "cartesi"
+      ]
     },
     {
       "name": "Celer Network",
@@ -514,7 +594,9 @@
       "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "celer"
+      ]
     },
     {
       "name": "Celsius ",
@@ -523,7 +605,9 @@
       "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d.png",
-      "tags": []
+      "tags": [
+        "celsius"
+      ]
     },
     {
       "name": "Certified diamond coin",
@@ -544,7 +628,9 @@
       "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x514910771af9ca656af840dff83e8264ecf986ca.png",
-      "tags": []
+      "tags": [
+        "chainlink"
+      ]
     },
     {
       "name": "Chiliz ",
@@ -553,7 +639,9 @@
       "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x3506424f91fd33084466f402d5d97f05f8e3b4af.png",
-      "tags": []
+      "tags": [
+        "chiliz"
+      ]
     },
     {
       "name": "Chimpion",
@@ -562,7 +650,9 @@
       "address": "0x07ef9e82721ac16809d24dafbe1792ce01654db4",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "chimpion"
+      ]
     },
     {
       "name": "Chromia",
@@ -571,7 +661,9 @@
       "address": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "chromia"
+      ]
     },
     {
       "name": "Cindicator",
@@ -580,7 +672,9 @@
       "address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xd4c435f5b09f855c3317c8524cb1f586e42795fa.png",
-      "tags": []
+      "tags": [
+        "cindicator"
+      ]
     },
     {
       "name": "Civic",
@@ -589,7 +683,9 @@
       "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x41e5560054824ea6b0732e656e3ad64e20e94e45.png",
-      "tags": []
+      "tags": [
+        "civic"
+      ]
     },
     {
       "name": "CoinMetro Token",
@@ -598,7 +694,9 @@
       "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "coinmetro"
+      ]
     },
     {
       "name": "Compound",
@@ -607,7 +705,9 @@
       "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xc00e94cb662c3520282e6f5717214004a7f26888.png",
-      "tags": []
+      "tags": [
+        "compound"
+      ]
     },
     {
       "name": "Compound wrapped BTC",
@@ -628,7 +728,9 @@
       "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x2ba592f78db6436527729929aaf6c908497cb200.png",
-      "tags": []
+      "tags": [
+        "cream"
+      ]
     },
     {
       "name": "Crypto.com Coin ",
@@ -637,7 +739,9 @@
       "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b.png",
-      "tags": []
+      "tags": [
+        "crypto.com"
+      ]
     },
     {
       "name": "CryptoFranc",
@@ -659,16 +763,9 @@
       "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-      "tags": []
-    },
-    {
-      "name": "cVault BTC",
-      "decimals": 8,
-      "symbol": "CBTC",
-      "address": "0x7b5982dcab054c377517759d0d2a3a5d02615ab8",
-      "chainId": "1",
-      "logoURI": "",
-      "tags": []
+      "tags": [
+        "curve"
+      ]
     },
     {
       "name": "CyberVein",
@@ -677,7 +774,9 @@
       "address": "0xbe428c3867f05dea2a89fc76a102b544eac7f772",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "cybervein"
+      ]
     },
     {
       "name": "Dai",
@@ -699,7 +798,9 @@
       "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0f51bb10119727a7e5ea3538074fb341f56b09ad.png",
-      "tags": []
+      "tags": [
+        "maker"
+      ]
     },
     {
       "name": "Darwinia Network",
@@ -708,7 +809,9 @@
       "address": "0x9469d013805bffb7d3debe5e7839237e535ec483",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x9469d013805bffb7d3debe5e7839237e535ec483.png",
-      "tags": []
+      "tags": [
+        "darwinia"
+      ]
     },
     {
       "name": "Decentral Games",
@@ -717,7 +820,9 @@
       "address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xee06a81a695750e71a662b51066f2c74cf4478a0.png",
-      "tags": []
+      "tags": [
+        "decentral"
+      ]
     },
     {
       "name": "Decentraland",
@@ -726,7 +831,9 @@
       "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png",
-      "tags": []
+      "tags": [
+        "decentraland"
+      ]
     },
     {
       "name": "Dego Finance",
@@ -735,7 +842,9 @@
       "address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x88ef27e69108b2633f8e1c184cc37940a075cc02.png",
-      "tags": []
+      "tags": [
+        "dego"
+      ]
     },
     {
       "name": "Dent",
@@ -744,7 +853,9 @@
       "address": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x3597bfd533a99c9aa083587b074434e61eb0a258.png",
-      "tags": []
+      "tags": [
+        "dent"
+      ]
     },
     {
       "name": "DeXe",
@@ -753,7 +864,9 @@
       "address": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xde4ee8057785a7e8e800db58f9784845a5c2cbd6.png",
-      "tags": []
+      "tags": [
+        "dexe"
+      ]
     },
     {
       "name": "DEXTools",
@@ -762,7 +875,9 @@
       "address": "0x26ce25148832c04f3d7f26f32478a9fe55197166",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x26ce25148832c04f3d7f26f32478a9fe55197166.png",
-      "tags": []
+      "tags": [
+        "dextools"
+      ]
     },
     {
       "name": "DFI.Money",
@@ -771,7 +886,9 @@
       "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xa1d0e215a23d7030842fc67ce582a6afa3ccab83.png",
-      "tags": []
+      "tags": [
+        "dfi.money"
+      ]
     },
     {
       "name": "DIA",
@@ -780,7 +897,9 @@
       "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419.png",
-      "tags": []
+      "tags": [
+        "diamond"
+      ]
     },
     {
       "name": "DigitalBits",
@@ -789,7 +908,9 @@
       "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "digitalbits"
+      ]
     },
     {
       "name": "Digix Gold Token",
@@ -810,7 +931,9 @@
       "address": "0x0abdace70d3790235af448c88547603b945604ea",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "district0x"
+      ]
     },
     {
       "name": "dKargo",
@@ -819,7 +942,9 @@
       "address": "0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "dkargo"
+      ]
     },
     {
       "name": "Dock",
@@ -828,7 +953,9 @@
       "address": "0xe5dada80aa6477e85d09747f2842f7993d0df71c",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "dock"
+      ]
     },
     {
       "name": "Doctors Coin",
@@ -837,7 +964,9 @@
       "address": "0xbf13ff395d686ed7c705a5411cc8e4e21ff2ceb2",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "doctors"
+      ]
     },
     {
       "name": "Dodo",
@@ -846,7 +975,9 @@
       "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd.png",
-      "tags": []
+      "tags": [
+        "dodo"
+      ]
     },
     {
       "name": "Dovu",
@@ -855,7 +986,9 @@
       "address": "0xac3211a5025414af2866ff09c23fc18bc97e79b1",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "dovu"
+      ]
     },
     {
       "name": "Dragonchain",
@@ -864,7 +997,9 @@
       "address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "dragonchain"
+      ]
     },
     {
       "name": "Duck Dao (DLP Duck Token)",
@@ -873,7 +1008,9 @@
       "address": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f.png",
-      "tags": []
+      "tags": [
+        "duck"
+      ]
     },
     {
       "name": "Duck Dao Dime",
@@ -882,7 +1019,9 @@
       "address": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20.png",
-      "tags": []
+      "tags": [
+        "duck-dime"
+      ]
     },
     {
       "name": "DxChain Token",
@@ -891,7 +1030,9 @@
       "address": "0x973e52691176d36453868d9d86572788d27041a9",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "dxchain"
+      ]
     },
     {
       "name": "Eauric",
@@ -900,7 +1041,9 @@
       "address": "0xc36c65693ea9e207ad35d4ee2fb6c5f6f43bdec8",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "eauric"
+      ]
     },
     {
       "name": "Efforce ",
@@ -909,7 +1052,9 @@
       "address": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x34950ff2b487d9e5282c5ab342d08a2f712eb79f.png",
-      "tags": []
+      "tags": [
+        "efforce"
+      ]
     },
     {
       "name": "Elitium",
@@ -918,7 +1063,9 @@
       "address": "0x6ab4a7d75b0a42b6bc83e852dab9e121f9c610aa",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "elitium"
+      ]
     },
     {
       "name": "Endor Protocol",
@@ -927,7 +1074,9 @@
       "address": "0xc528c28fec0a90c083328bc45f587ee215760a0f",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "endor"
+      ]
     },
     {
       "name": "Energy Web Token Bridge",
@@ -948,7 +1097,9 @@
       "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png",
-      "tags": []
+      "tags": [
+        "enjin"
+      ]
     },
     {
       "name": "Enzyme",
@@ -957,7 +1108,9 @@
       "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xec67005c4e498ec7f55e092bd1d35cbc47c91892.png",
-      "tags": []
+      "tags": [
+        "enzyme"
+      ]
     },
     {
       "name": "Ethernity Chain ",
@@ -966,7 +1119,9 @@
       "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xbbc2ae13b23d715c30720f079fcd9b4a74093505.png",
-      "tags": []
+      "tags": [
+        "ethernity"
+      ]
     },
     {
       "name": "eToro Hong Kong Dollar",
@@ -988,7 +1143,9 @@
       "address": "0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83.png",
-      "tags": []
+      "tags": [
+        "everest"
+      ]
     },
     {
       "name": "Ferrum Network",
@@ -997,7 +1154,9 @@
       "address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xe5caef4af8780e59df925470b050fb23c43ca68c.png",
-      "tags": []
+      "tags": [
+        "ferrum"
+      ]
     },
     {
       "name": "fetch",
@@ -1006,7 +1165,9 @@
       "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xaea46a60368a7bd060eec7df8cba43b7ef41ad85.png",
-      "tags": []
+      "tags": [
+        "fetch"
+      ]
     },
     {
       "name": "FRAX",
@@ -1015,7 +1176,9 @@
       "address": "0x853d955acef822db058eb8505911ed77f175b99e",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x853d955acef822db058eb8505911ed77f175b99e.png",
-      "tags": []
+      "tags": [
+        "frax"
+      ]
     },
     {
       "name": "Frax Share",
@@ -1024,7 +1187,9 @@
       "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-      "tags": []
+      "tags": [
+        "frax"
+      ]
     },
     {
       "name": "Frontier ",
@@ -1033,7 +1198,9 @@
       "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xf8c3527cc04340b208c854e985240c02f7b7793f.png",
-      "tags": []
+      "tags": [
+        "frontier"
+      ]
     },
     {
       "name": "funfair",
@@ -1042,7 +1209,9 @@
       "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x419d0d8bdd9af5e606ae2232ed285aff190e711b.png",
-      "tags": []
+      "tags": [
+        "funfair"
+      ]
     },
     {
       "name": "Gala",
@@ -1051,7 +1220,9 @@
       "address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x15d4c048f83bd7e37d49ea4c83a07267ec4203da.png",
-      "tags": []
+      "tags": [
+        "gala"
+      ]
     },
     {
       "name": "GateToken",
@@ -1060,7 +1231,9 @@
       "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "gatetoken"
+      ]
     },
     {
       "name": "Gemini Dollar",
@@ -1082,7 +1255,9 @@
       "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x6810e776880c02933d47db1b9fc05908e5386b96.png",
-      "tags": []
+      "tags": [
+        "gnosis"
+      ]
     },
     {
       "name": "GNY",
@@ -1091,7 +1266,9 @@
       "address": "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xb1f871ae9462f1b2c6826e88a7827e76f86751d4.png",
-      "tags": []
+      "tags": [
+        "gny"
+      ]
     },
     {
       "name": "Golem",
@@ -1100,7 +1277,9 @@
       "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "golem"
+      ]
     },
     {
       "name": "Harvest Finance",
@@ -1109,7 +1288,9 @@
       "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xa0246c9032bc3a600820415ae600c6388619a14d.png",
-      "tags": []
+      "tags": [
+        "harvest"
+      ]
     },
     {
       "name": "hedgetrade",
@@ -1118,7 +1299,9 @@
       "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xf1290473e210b2108a85237fbcd7b6eb42cc654f.png",
-      "tags": []
+      "tags": [
+        "hedgetrade"
+      ]
     },
     {
       "name": "Hegic",
@@ -1127,7 +1310,9 @@
       "address": "0x584bc13c7d411c00c01a62e8019472de68768430",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x584bc13c7d411c00c01a62e8019472de68768430.png",
-      "tags": []
+      "tags": [
+        "hegic"
+      ]
     },
     {
       "name": "HEX",
@@ -1136,7 +1321,9 @@
       "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39.png",
-      "tags": []
+      "tags": [
+        "hex"
+      ]
     },
     {
       "name": "Hifi Finance",
@@ -1145,7 +1332,9 @@
       "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xdf2c7238198ad8b389666574f2d8bc411a4b7428.png",
-      "tags": []
+      "tags": [
+        "hifi"
+      ]
     },
     {
       "name": "Holo",
@@ -1154,7 +1343,9 @@
       "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x6c6ee5e31d828de241282b9606c8e98ea48526e2.png",
-      "tags": []
+      "tags": [
+        "holo"
+      ]
     },
     {
       "name": "HUOBI Pool Token",
@@ -1163,7 +1354,9 @@
       "address": "0xa66daa57432024023db65477ba87d4e7f5f95213",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "huobi-pool"
+      ]
     },
     {
       "name": "Huobi Token",
@@ -1184,7 +1377,9 @@
       "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png",
-      "tags": []
+      "tags": [
+        "huobi"
+      ]
     },
     {
       "name": "HUSD",
@@ -1206,7 +1401,9 @@
       "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "hxro"
+      ]
     },
     {
       "name": "Idea Chian Coin",
@@ -1215,7 +1412,9 @@
       "address": "0xf8483e2d6560585c02d46bf7b3186bf154a96166",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "idea-chian"
+      ]
     },
     {
       "name": "iExec RLC",
@@ -1224,7 +1423,9 @@
       "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x607f4c5bb672230e8672085532f7e901544a7375.png",
-      "tags": []
+      "tags": [
+        "iexec"
+      ]
     },
     {
       "name": "Injective Protocol",
@@ -1233,7 +1434,9 @@
       "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xe28b3b32b6c345a34ff64674606124dd5aceca30.png",
-      "tags": []
+      "tags": [
+        "injective"
+      ]
     },
     {
       "name": "Ino Coin",
@@ -1242,7 +1445,9 @@
       "address": "0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "ino"
+      ]
     },
     {
       "name": "inSure DeFi",
@@ -1251,7 +1456,9 @@
       "address": "0xb5a4ac5b04e777230ba3381195eff6a60c3934f2",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "insure"
+      ]
     },
     {
       "name": "Japanese GYen",
@@ -1286,7 +1493,9 @@
       "address": "0x5580ab97f226c324c671746a1787524aef42e415",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x5580ab97f226c324c671746a1787524aef42e415.png",
-      "tags": []
+      "tags": [
+        "justliquidity"
+      ]
     },
     {
       "name": "Kachingo",
@@ -1307,7 +1516,9 @@
       "address": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093.png",
-      "tags": []
+      "tags": [
+        "kardia"
+      ]
     },
     {
       "name": "Kauri",
@@ -1328,7 +1539,22 @@
       "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec.png",
-      "tags": []
+      "tags": [
+        "keep"
+      ]
+    },
+    {
+      "name": "KRT Token",
+      "decimals": 18,
+      "symbol": "KRT",
+      "address": "0xcaaff72a8cbbfc5cf343ba4e26f65a257065bff1",
+      "chainId": "1",
+      "logoURI": "",
+      "tags": [
+        "stablecoin",
+        "fiat",
+        "krw"
+      ]
     },
     {
       "name": "kucoin-token",
@@ -1337,7 +1563,9 @@
       "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "kucoin"
+      ]
     },
     {
       "name": "kyber-network",
@@ -1346,7 +1574,9 @@
       "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xdd974d5c2e2928dea5f71b9825b8b646686bd200.png",
-      "tags": []
+      "tags": [
+        "kyber-network"
+      ]
     },
     {
       "name": "Kylin",
@@ -1355,7 +1585,9 @@
       "address": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c.png",
-      "tags": []
+      "tags": [
+        "kylin"
+      ]
     },
     {
       "name": "Linear",
@@ -1364,7 +1596,9 @@
       "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x3e9bc21c9b189c09df3ef1b824798658d5011937.png",
-      "tags": []
+      "tags": [
+        "linear"
+      ]
     },
     {
       "name": "Litentry",
@@ -1373,7 +1607,9 @@
       "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xb59490ab09a0f526cc7305822ac65f2ab12f9723.png",
-      "tags": []
+      "tags": [
+        "litentry"
+      ]
     },
     {
       "name": "Lition",
@@ -1394,7 +1630,9 @@
       "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0.png",
-      "tags": []
+      "tags": [
+        "loom"
+      ]
     },
     {
       "name": "loopring",
@@ -1403,7 +1641,9 @@
       "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd.png",
-      "tags": []
+      "tags": [
+        "loopring"
+      ]
     },
     {
       "name": "LUKSO",
@@ -1412,7 +1652,9 @@
       "address": "0xa8b919680258d369114910511cc87595aec0be6d",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xa8b919680258d369114910511cc87595aec0be6d.png",
-      "tags": []
+      "tags": [
+        "lukso"
+      ]
     },
     {
       "name": "Maker",
@@ -1421,7 +1663,9 @@
       "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png",
-      "tags": []
+      "tags": [
+        "maker"
+      ]
     },
     {
       "name": "Mantra Dao",
@@ -1430,7 +1674,9 @@
       "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x3593d125a4f7849a1b059e64f4517a86dd60c95d.png",
-      "tags": []
+      "tags": [
+        "mantra"
+      ]
     },
     {
       "name": "MAPS",
@@ -1439,7 +1685,9 @@
       "address": "0x2b915b505c017abb1547aa5ab355fbe69865cc6d",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x2b915b505c017abb1547aa5ab355fbe69865cc6d.png",
-      "tags": []
+      "tags": [
+        "maps"
+      ]
     },
     {
       "name": "Mask ",
@@ -1448,7 +1696,9 @@
       "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x69af81e73a73b40adf4f3d4223cd9b1ece623074.png",
-      "tags": []
+      "tags": [
+        "mask"
+      ]
     },
     {
       "name": "MATH",
@@ -1457,7 +1707,22 @@
       "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x08d967bb0134f2d07f7cfb6e246680c53927dd30.png",
-      "tags": []
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "name": "Mcr Stablecoin",
+      "decimals": 18,
+      "symbol": "MCR",
+      "address": "0xed351575b9869aada94435e0066ba38e08800b60",
+      "chainId": "1",
+      "logoURI": "",
+      "tags": [
+        "stablecoin",
+        "fiat",
+        "rub"
+      ]
     },
     {
       "name": "Measurable Data Token",
@@ -1466,7 +1731,9 @@
       "address": "0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26.png",
-      "tags": []
+      "tags": [
+        "measurable-data"
+      ]
     },
     {
       "name": "MEME",
@@ -1475,7 +1742,9 @@
       "address": "0xd5525d397898e5502075ea5e830d8914f6f0affe",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xd5525d397898e5502075ea5e830d8914f6f0affe.png",
-      "tags": []
+      "tags": [
+        "meme"
+      ]
     },
     {
       "name": "Metal",
@@ -1484,7 +1753,9 @@
       "address": "0xf433089366899d83a9f26a773d59ec7ecf30355e",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xf433089366899d83a9f26a773d59ec7ecf30355e.png",
-      "tags": []
+      "tags": [
+        "metal"
+      ]
     },
     {
       "name": "Mirror Protocol",
@@ -1493,7 +1764,9 @@
       "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x09a3ecafa817268f77be1283176b946c4ff2e608.png",
-      "tags": []
+      "tags": [
+        "mirror"
+      ]
     },
     {
       "name": "Mirrored Alibaba",
@@ -1503,7 +1776,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "alibaba"
       ]
     },
     {
@@ -1514,7 +1788,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "amazon"
       ]
     },
     {
@@ -1525,7 +1800,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "apple"
       ]
     },
     {
@@ -1536,7 +1812,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "facebook"
       ]
     },
     {
@@ -1547,7 +1824,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "google"
       ]
     },
     {
@@ -1558,7 +1836,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "invesco"
       ]
     },
     {
@@ -1569,7 +1848,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "ishares-gold"
       ]
     },
     {
@@ -1580,7 +1860,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "ishares-silver"
       ]
     },
     {
@@ -1591,7 +1872,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "microsoft"
       ]
     },
     {
@@ -1602,7 +1884,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "netflix"
       ]
     },
     {
@@ -1613,7 +1896,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "proshares"
       ]
     },
     {
@@ -1624,7 +1908,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "tesla"
       ]
     },
     {
@@ -1635,7 +1920,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "twitter"
       ]
     },
     {
@@ -1646,7 +1932,8 @@
       "chainId": "1",
       "logoURI": "",
       "tags": [
-        "stock"
+        "stock",
+        "united-stated-oil"
       ]
     },
     {
@@ -1656,7 +1943,9 @@
       "address": "0xaf80951201a0eff85a0fd3adf4c7043db856d3e6",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "mobilian"
+      ]
     },
     {
       "name": "Morpheus Network",
@@ -1665,7 +1954,9 @@
       "address": "0x7b0c06043468469967dba22d1af33d77d44056c8",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x7b0c06043468469967dba22d1af33d77d44056c8.png",
-      "tags": []
+      "tags": [
+        "morpheus"
+      ]
     },
     {
       "name": "Moss Carbon Credit",
@@ -1686,7 +1977,9 @@
       "address": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "mvl"
+      ]
     },
     {
       "name": "MX Token",
@@ -1695,7 +1988,9 @@
       "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "mx"
+      ]
     },
     {
       "name": "MXC ",
@@ -1704,7 +1999,9 @@
       "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "mxc"
+      ]
     },
     {
       "name": "MyNeighborAlice",
@@ -1713,7 +2010,9 @@
       "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "myneighboralice"
+      ]
     },
     {
       "name": "NEST protocol",
@@ -1722,7 +2021,9 @@
       "address": "0x04abeda201850ac0124161f037efd70c74ddc74c",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "nest"
+      ]
     },
     {
       "name": "Nestree",
@@ -1731,7 +2032,9 @@
       "address": "0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "nestree"
+      ]
     },
     {
       "name": "Neutrino USD",
@@ -1753,7 +2056,9 @@
       "address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x87d73e916d7057945c9bcd8cdd94e42a6f47f776.png",
-      "tags": []
+      "tags": [
+        "nftx"
+      ]
     },
     {
       "name": "NuCypher",
@@ -1762,7 +2067,9 @@
       "address": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x4fe83213d56308330ec302a8bd641f1d0113a4cc.png",
-      "tags": []
+      "tags": [
+        "nucypher"
+      ]
     },
     {
       "name": "Numeraire",
@@ -1771,7 +2078,9 @@
       "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671.png",
-      "tags": []
+      "tags": [
+        "numeraire"
+      ]
     },
     {
       "name": "NXM",
@@ -1780,7 +2089,9 @@
       "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "nxm"
+      ]
     },
     {
       "name": "ocean-protocol",
@@ -1789,7 +2100,9 @@
       "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x967da4048cd07ab37855c090aaf366e4ce1b9f48.png",
-      "tags": []
+      "tags": [
+        "ocean"
+      ]
     },
     {
       "name": "OKB",
@@ -1798,7 +2111,9 @@
       "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "okb"
+      ]
     },
     {
       "name": "ONOToken",
@@ -1807,7 +2122,9 @@
       "address": "0xb31c219959e06f9afbeb36b388a4bad13e802725",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "onotoken"
+      ]
     },
     {
       "name": "Open Governance Token",
@@ -1816,7 +2133,9 @@
       "address": "0x69e8b9528cabda89fe846c67675b5d73d463a916",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x69e8b9528cabda89fe846c67675b5d73d463a916.png",
-      "tags": []
+      "tags": [
+        "open-governance"
+      ]
     },
     {
       "name": "Orbit chain",
@@ -1825,7 +2144,9 @@
       "address": "0x662b67d00a13faf93254714dd601f5ed49ef2f51",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "orbit"
+      ]
     },
     {
       "name": "ORBS",
@@ -1834,7 +2155,9 @@
       "address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "orbs"
+      ]
     },
     {
       "name": "Orchid",
@@ -1843,7 +2166,9 @@
       "address": "0x4575f41308ec1483f3d399aa9a2826d74da13deb",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "orchid"
+      ]
     },
     {
       "name": "Origin Protocol",
@@ -1852,7 +2177,9 @@
       "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26.png",
-      "tags": []
+      "tags": [
+        "origin"
+      ]
     },
     {
       "name": "OriginalTrail",
@@ -1861,7 +2188,9 @@
       "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f.png",
-      "tags": []
+      "tags": [
+        "originaltrail"
+      ]
     },
     {
       "name": "Orion Protocol",
@@ -1870,7 +2199,9 @@
       "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a.png",
-      "tags": []
+      "tags": [
+        "orion"
+      ]
     },
     {
       "name": "PARSIQ",
@@ -1879,7 +2210,9 @@
       "address": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x362bc847a3a9637d3af6624eec853618a43ed7d2.png",
-      "tags": []
+      "tags": [
+        "parsiq"
+      ]
     },
     {
       "name": "PAX Gold",
@@ -1913,7 +2246,9 @@
       "address": "0xeca82185adce47f39c684352b0439f030f860318",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xeca82185adce47f39c684352b0439f030f860318.png",
-      "tags": []
+      "tags": [
+        "perlin"
+      ]
     },
     {
       "name": "Perpetual Protocol",
@@ -1922,7 +2257,9 @@
       "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xbc396689893d065f41bc2c6ecbee5e0085233447.png",
-      "tags": []
+      "tags": [
+        "perpetual"
+      ]
     },
     {
       "name": "PIBBLE",
@@ -1931,7 +2268,9 @@
       "address": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "pibble"
+      ]
     },
     {
       "name": "PIXEL",
@@ -1940,7 +2279,9 @@
       "address": "0xf88951d7b676798705fd3a362ba5b1dbca2b233b",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "pixel"
+      ]
     },
     {
       "name": "Polkastarter",
@@ -1949,16 +2290,20 @@
       "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa.png",
-      "tags": []
+      "tags": [
+        "polkastarter"
+      ]
     },
     {
       "name": "Polygon",
       "decimals": 18,
-      "symbol": "MATIC",
+      "symbol": "POLYGON-MATIC",
       "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
-      "tags": []
+      "tags": [
+        "polygon"
+      ]
     },
     {
       "name": "polymath",
@@ -1967,7 +2312,9 @@
       "address": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec.png",
-      "tags": []
+      "tags": [
+        "polymath"
+      ]
     },
     {
       "name": "Populous",
@@ -1976,7 +2323,9 @@
       "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "populous"
+      ]
     },
     {
       "name": "Power Ledger",
@@ -1997,7 +2346,9 @@
       "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "prometeus"
+      ]
     },
     {
       "name": "Propy",
@@ -2006,7 +2357,20 @@
       "address": "0x226bb599a12c826476e3a771454697ea52e9e220",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "propy"
+      ]
+    },
+    {
+      "name": "Proton",
+      "decimals": 4,
+      "symbol": "XPR",
+      "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+      "chainId": "1",
+      "logoURI": "https://tokens.1inch.exchange/0xd7efb00d12c2c13131fd319336fdf952525da2af.png",
+      "tags": [
+        "proton"
+      ]
     },
     {
       "name": "pundi-x",
@@ -2015,7 +2379,9 @@
       "address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3.png",
-      "tags": []
+      "tags": [
+        "pundi-x"
+      ]
     },
     {
       "name": "QCAD",
@@ -2037,7 +2403,9 @@
       "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x4a220e6096b25eadb88358cb44068a3248254675.png",
-      "tags": []
+      "tags": [
+        "quant"
+      ]
     },
     {
       "name": "Quantstamp",
@@ -2046,7 +2414,9 @@
       "address": "0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "quantstamp"
+      ]
     },
     {
       "name": "Quarkchain",
@@ -2055,7 +2425,9 @@
       "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664.png",
-      "tags": []
+      "tags": [
+        "quarkchain"
+      ]
     },
     {
       "name": "Radix ",
@@ -2064,7 +2436,9 @@
       "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x6468e79a80c0eab0f9a2b574c8d5bc374af59414.png",
-      "tags": []
+      "tags": [
+        "radix"
+      ]
     },
     {
       "name": "Rally ",
@@ -2073,7 +2447,9 @@
       "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b.png",
-      "tags": []
+      "tags": [
+        "rally"
+      ]
     },
     {
       "name": "RAMP",
@@ -2082,7 +2458,9 @@
       "address": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f.png",
-      "tags": []
+      "tags": [
+        "ramp"
+      ]
     },
     {
       "name": "Rari Governance Token",
@@ -2091,7 +2469,9 @@
       "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xd291e7a03283640fdc51b121ac401383a46cc623.png",
-      "tags": []
+      "tags": [
+        "rari-governance"
+      ]
     },
     {
       "name": "RedFOX Labs",
@@ -2100,7 +2480,9 @@
       "address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xa1d6df714f91debf4e0802a542e13067f31b8262.png",
-      "tags": []
+      "tags": [
+        "redfox"
+      ]
     },
     {
       "name": "Reef",
@@ -2109,7 +2491,9 @@
       "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xfe3e6a25e6b192a42a44ecddcd13796471735acf.png",
-      "tags": []
+      "tags": [
+        "reef"
+      ]
     },
     {
       "name": "Refereum ",
@@ -2118,7 +2502,9 @@
       "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "refereum"
+      ]
     },
     {
       "name": "Ren",
@@ -2127,7 +2513,9 @@
       "address": "0x408e41876cccdc0f92210600ef50372656052a38",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x408e41876cccdc0f92210600ef50372656052a38.png",
-      "tags": []
+      "tags": [
+        "ren"
+      ]
     },
     {
       "name": "renBCH",
@@ -2160,7 +2548,9 @@
       "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24.png",
-      "tags": []
+      "tags": [
+        "render"
+      ]
     },
     {
       "name": "renZEC",
@@ -2181,7 +2571,9 @@
       "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x8f8221afbb33998d8584a2b05749ba73c37a938a.png",
-      "tags": []
+      "tags": [
+        "request"
+      ]
     },
     {
       "name": "revain",
@@ -2190,7 +2582,9 @@
       "address": "0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "revain"
+      ]
     },
     {
       "name": "REVV",
@@ -2199,7 +2593,9 @@
       "address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x557b933a7c2c45672b610f8954a3deb39a51a8ca.png",
-      "tags": []
+      "tags": [
+        "revv"
+      ]
     },
     {
       "name": "Rewardiqa",
@@ -2208,7 +2604,9 @@
       "address": "0x3ffffa8f3cc943e43f9f17a83cbb18f4bbb9f4ac",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "rewardiqa"
+      ]
     },
     {
       "name": "Ripio Credit Network",
@@ -2217,7 +2615,9 @@
       "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6.png",
-      "tags": []
+      "tags": [
+        "ripio"
+      ]
     },
     {
       "name": "Rocket Pool",
@@ -2226,7 +2626,9 @@
       "address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xb4efd85c19999d84251304bda99e90b92300bd93.png",
-      "tags": []
+      "tags": [
+        "rocket-pool"
+      ]
     },
     {
       "name": "Rupiah Token",
@@ -2248,7 +2650,9 @@
       "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xb753428af26e81097e7fd17f40c88aaa3e04902c.png",
-      "tags": []
+      "tags": [
+        "saffron"
+      ]
     },
     {
       "name": "Selfkey",
@@ -2257,7 +2661,9 @@
       "address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7.png",
-      "tags": []
+      "tags": [
+        "selfkey"
+      ]
     },
     {
       "name": "Sentinel Protocol",
@@ -2266,7 +2672,9 @@
       "address": "0xc86d054809623432210c107af2e3f619dcfbf652",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "sentinel"
+      ]
     },
     {
       "name": "Shopping",
@@ -2275,7 +2683,9 @@
       "address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7.png",
-      "tags": []
+      "tags": [
+        "shopping"
+      ]
     },
     {
       "name": "Silver Dollar ",
@@ -2296,7 +2706,9 @@
       "address": "0x8eb24319393716668d768dcec29356ae9cffe285",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x8eb24319393716668d768dcec29356ae9cffe285.png",
-      "tags": []
+      "tags": [
+        "singularity"
+      ]
     },
     {
       "name": "Skale Network",
@@ -2305,7 +2717,9 @@
       "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7.png",
-      "tags": []
+      "tags": [
+        "skale"
+      ]
     },
     {
       "name": "SORa",
@@ -2314,7 +2728,9 @@
       "address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x40fd72257597aa14c7231a7b1aaa29fce868f677.png",
-      "tags": []
+      "tags": [
+        "sora"
+      ]
     },
     {
       "name": "SparkPoint",
@@ -2323,7 +2739,9 @@
       "address": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0488401c3f535193fa8df029d9ffe615a06e74e6.png",
-      "tags": []
+      "tags": [
+        "sparkpoint"
+      ]
     },
     {
       "name": "Sport and Leisure",
@@ -2332,7 +2750,9 @@
       "address": "0xa806b3fed6891136940cf81c4085661500aa2709",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "sport-and-leisure"
+      ]
     },
     {
       "name": "Stable USD",
@@ -2354,7 +2774,9 @@
       "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "standart-tokenization"
+      ]
     },
     {
       "name": "STASIS EURO",
@@ -2376,7 +2798,9 @@
       "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x744d70fdbe2ba4cf95131626614a1763df805b9e.png",
-      "tags": []
+      "tags": [
+        "status"
+      ]
     },
     {
       "name": "stETH",
@@ -2397,7 +2821,9 @@
       "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac.png",
-      "tags": []
+      "tags": [
+        "storj"
+      ]
     },
     {
       "name": "StormX",
@@ -2406,7 +2832,9 @@
       "address": "0xbe9375c6a420d2eeb258962efb95551a5b722803",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xbe9375c6a420d2eeb258962efb95551a5b722803.png",
-      "tags": []
+      "tags": [
+        "stormx"
+      ]
     },
     {
       "name": "Streamr",
@@ -2415,7 +2843,9 @@
       "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0cf0ee63788a0849fe5297f3407f701e122cc023.png",
-      "tags": []
+      "tags": [
+        "streamr"
+      ]
     },
     {
       "name": "SUKU",
@@ -2424,7 +2854,9 @@
       "address": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "suku"
+      ]
     },
     {
       "name": "SuperFarm",
@@ -2433,7 +2865,9 @@
       "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55.png",
-      "tags": []
+      "tags": [
+        "superfarm"
+      ]
     },
     {
       "name": "sUSD",
@@ -2455,7 +2889,9 @@
       "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png",
-      "tags": []
+      "tags": [
+        "sushiswap"
+      ]
     },
     {
       "name": "Swipe",
@@ -2464,7 +2900,9 @@
       "address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9.png",
-      "tags": []
+      "tags": [
+        "swipe"
+      ]
     },
     {
       "name": "SwissBorg",
@@ -2473,7 +2911,9 @@
       "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "swissborg"
+      ]
     },
     {
       "name": "Synthetix",
@@ -2482,7 +2922,9 @@
       "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png",
-      "tags": []
+      "tags": [
+        "synthetix"
+      ]
     },
     {
       "name": "Syntropy",
@@ -2491,7 +2933,9 @@
       "address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "syntropy"
+      ]
     },
     {
       "name": "tBTC",
@@ -2512,7 +2956,9 @@
       "address": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "telecoin"
+      ]
     },
     {
       "name": "Tellor",
@@ -2521,7 +2967,9 @@
       "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "tellor"
+      ]
     },
     {
       "name": "Terra Virtua Kolect",
@@ -2530,7 +2978,9 @@
       "address": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988.png",
-      "tags": []
+      "tags": [
+        "terra-virtua-kolect"
+      ]
     },
     {
       "name": "TerraUSD",
@@ -2590,7 +3040,9 @@
       "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png",
-      "tags": []
+      "tags": [
+        "graph"
+      ]
     },
     {
       "name": "The Sandbox",
@@ -2599,7 +3051,9 @@
       "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x3845badade8e6dff049820680d1f14bd3903a5d0.png",
-      "tags": []
+      "tags": [
+        "sandbox"
+      ]
     },
     {
       "name": "The Transfer Token",
@@ -2608,7 +3062,9 @@
       "address": "0x2494a68c1484376fef880b4c24d91f049d29b02a",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "the-transfer-token"
+      ]
     },
     {
       "name": "Tokenlon Network",
@@ -2617,7 +3073,9 @@
       "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0000000000095413afc295d19edeb1ad7b71c952.png",
-      "tags": []
+      "tags": [
+        "network"
+      ]
     },
     {
       "name": "TrueFi ",
@@ -2626,7 +3084,9 @@
       "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784.png",
-      "tags": []
+      "tags": [
+        "truefi"
+      ]
     },
     {
       "name": "TrueGBP",
@@ -2661,7 +3121,9 @@
       "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xcc4304a31d09258b0029ea7fe63d032f52e44efe.png",
-      "tags": []
+      "tags": [
+        "trustswap"
+      ]
     },
     {
       "name": "Ultra ",
@@ -2670,7 +3132,9 @@
       "address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c.png",
-      "tags": []
+      "tags": [
+        "ultra"
+      ]
     },
     {
       "name": "UMA",
@@ -2679,7 +3143,20 @@
       "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x04fa0d235c4abf4bcf4787af4cf447de572ef828.png",
-      "tags": []
+      "tags": [
+        "uma"
+      ]
+    },
+    {
+      "name": "Umbrella Network",
+      "decimals": 18,
+      "symbol": "UMB",
+      "address": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
+      "chainId": "1",
+      "logoURI": "https://tokens.1inch.exchange/0x6fc13eace26590b80cccab1ba5d51890577d83b2.png",
+      "tags": [
+        "umbrella"
+      ]
     },
     {
       "name": "Unibright",
@@ -2688,7 +3165,9 @@
       "address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e.png",
-      "tags": []
+      "tags": [
+        "unibright"
+      ]
     },
     {
       "name": "Unifi Protocol DAO",
@@ -2697,7 +3176,9 @@
       "address": "0x441761326490cacf7af299725b6292597ee822c2",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "unifi"
+      ]
     },
     {
       "name": "Uniswap ",
@@ -2706,7 +3187,9 @@
       "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
-      "tags": []
+      "tags": [
+        "uniswap"
+      ]
     },
     {
       "name": "UNUS SED LEO",
@@ -2715,7 +3198,9 @@
       "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3.png",
-      "tags": []
+      "tags": [
+        "unus-sed-leo"
+      ]
     },
     {
       "name": "Uquid Coin",
@@ -2724,7 +3209,9 @@
       "address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "uquid"
+      ]
     },
     {
       "name": "USD Coin",
@@ -2759,7 +3246,9 @@
       "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c.png",
-      "tags": []
+      "tags": [
+        "utrust"
+      ]
     },
     {
       "name": "VeraOne",
@@ -2780,7 +3269,9 @@
       "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x1b40183efb4dd766f11bda7a7c3ad8982e998421.png",
-      "tags": []
+      "tags": [
+        "vesper"
+      ]
     },
     {
       "name": "VIDT Datalink",
@@ -2789,7 +3280,9 @@
       "address": "0xfef4185594457050cc9c23980d301908fe057bb1",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xfef4185594457050cc9c23980d301908fe057bb1.png",
-      "tags": []
+      "tags": [
+        "vidt"
+      ]
     },
     {
       "name": "voyager-token",
@@ -2798,7 +3291,9 @@
       "address": "0x5af2be193a6abca9c8817001f45744777db30756",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x5af2be193a6abca9c8817001f45744777db30756.png",
-      "tags": []
+      "tags": [
+        "voyager"
+      ]
     },
     {
       "name": "Waltonchain",
@@ -2807,7 +3302,9 @@
       "address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "waltonchain"
+      ]
     },
     {
       "name": "WHALE",
@@ -2816,7 +3313,9 @@
       "address": "0x9355372396e3f6daf13359b7b607a3374cc638e0",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "whale"
+      ]
     },
     {
       "name": "Wootrade ",
@@ -2825,7 +3324,9 @@
       "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png",
-      "tags": []
+      "tags": [
+        "wootrade"
+      ]
     },
     {
       "name": "Wrapped Bitcoin ",
@@ -2967,7 +3468,9 @@
       "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0ae055097c6d159879521c384f1d2123d1f195e6.png",
-      "tags": []
+      "tags": [
+        "xdai"
+      ]
     },
     {
       "name": "XSGD",
@@ -2989,7 +3492,9 @@
       "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png",
-      "tags": []
+      "tags": [
+        "yearn"
+      ]
     },
     {
       "name": "Yield App",
@@ -2998,7 +3503,9 @@
       "address": "0xf94b5c5651c888d928439ab6514b93944eee6f48",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xf94b5c5651c888d928439ab6514b93944eee6f48.png",
-      "tags": []
+      "tags": [
+        "yield"
+      ]
     },
     {
       "name": "yOUcash ",
@@ -3007,7 +3514,9 @@
       "address": "0x3d371413dd5489f3a04c07c0c2ce369c20986ceb",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "youcash"
+      ]
     },
     {
       "name": "Zap",
@@ -3016,7 +3525,9 @@
       "address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "zap"
+      ]
     },
     {
       "name": "ZB Token",
@@ -3025,7 +3536,9 @@
       "address": "0xbd0793332e9fb844a52a205a233ef27a5b34b927",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "zb"
+      ]
     },
     {
       "name": "Zelwin",
@@ -3034,7 +3547,9 @@
       "address": "0x5319e86f0e41a06e49eb37046b8c11d78bcad68c",
       "chainId": "1",
       "logoURI": "",
-      "tags": []
+      "tags": [
+        "zelwin"
+      ]
     },
     {
       "name": "ZKswap",
@@ -3043,7 +3558,9 @@
       "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
       "chainId": "1",
       "logoURI": "https://tokens.1inch.exchange/0xe4815ae53b124e7263f08dcdbbb757d41ed658c6.png",
-      "tags": []
+      "tags": [
+        "zkswap"
+      ]
     }
   ]
 }
